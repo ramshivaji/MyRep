@@ -1,1 +1,7 @@
-
+BDD - CUCUMBER
+JUNIT
+MOCKITO
+ALL CI Topics
+Jenkin and BDD Concepts
+Single Click Deployments
+Contious Delivery using Spinnaker/Delivery Pipeline
