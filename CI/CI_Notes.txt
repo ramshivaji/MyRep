@@ -1,2 +1,12 @@
 
 This to note down all the CI notes
+
+Tools will be discussed:
+  Maven
+  Gradle
+  Jenkins
+  Git/Github/bitbucket
+  JUnit
+  TDD
+  Nexus Sonatype
+  Sonarqube
