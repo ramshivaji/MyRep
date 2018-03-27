@@ -1,5 +1,8 @@
 Maven is used for CI. It is used by Jenkins for CI so there is no integration will happen without Maven. Instead of Maven we have 
 Gradle. Most of the projects are based on Maven and very few on Gradle.
+Maven is used to get the latest dependencies without any manual intervention of dynamic html pages.
+Maven also ensures security for dependencies with the help of Nexus Sonatype.
+Maven also used to maintain dependencies downloading and migration from one server to another
 >> C:\Users\rgoulika\Documents\Softwares\apache-maven-3.2.2\bin
 If we are not using any IDE we can run maven direcly by above path and run mvn file.
 
