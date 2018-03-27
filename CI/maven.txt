@@ -1,0 +1,11 @@
+Maven is used for CI. It is used by Jenkins for CI so there is no integration will happen without Maven. Instead of Maven we have 
+Gradle. Most of the projects are based on Maven and very few on Gradle.
+>> C:\Users\rgoulika\Documents\Softwares\apache-maven-3.2.2\bin
+If we are not using any IDE we can run maven direcly by above path and run mvn file.
+
+pom.xml(Project Object Model) - Configuration file read by Maven program to get all the settings.
+
+Public
+Corporate
+Local Repositories
+
