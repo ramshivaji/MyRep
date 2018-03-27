@@ -9,3 +9,11 @@ Public
 Corporate
 Local Repositories
 
+By Default maven will check the dependencies in local repositories named by .m2.
+
+The public repository of maven is mvnrepo.com
+
+settings.xml for proxy, usernames and password will be given for Maven to connect to repositories. It will have Global settings for all projects and applications where as POM.xml will have local settings for specific project.
+
+
+
