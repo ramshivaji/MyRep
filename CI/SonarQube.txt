@@ -1,0 +1,1 @@
+http://localhost:9000/ ==> Default site for SonarQube default user and passwd is admin, admin
