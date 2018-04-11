@@ -1,1 +1,4 @@
+> logging module is used for logging purpose
+> There are various modes info, warning, fatal and error.
+
 
